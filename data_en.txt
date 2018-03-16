@@ -1,0 +1,4 @@
+seems to be only working for a single hindi word
+No need of node.js, create a simple shell script
+
+
